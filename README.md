@@ -7,7 +7,7 @@ This project demonstrates demand forecasting using a synthetic retail sales data
 
 1. **Clone the repository:**  `git clone https://github.com/anime7/Demand-Forecasting-Project.git`
 2. **Install dependencies:** `pip install -r requirements.txt`
-3. **Run the notebook:** Open `day2.ipynb` in Jupyter Notebook/Lab and run the cells.
+3. **Run the notebook:** Open `day2.ipynb` in Jupyter Notebook/Lab or Vs code and run the cells.
 
 
 ## Dataset
